@@ -1,0 +1,33 @@
+[
+	{
+		#conditions : [
+			{
+				#condition : 'true',
+				#requiredMaps : [
+					{
+						#name : 'ENVY/Image JSON',
+						#versionName : 'V 9.2.0  [453]',
+						#ts : 3725791801
+					},
+					{
+						#name : 'z.ST: Server Smalltalk (SST) - HTTP',
+						#versionName : 'V 10.0.2  [487]',
+						#ts : 3800881735
+					}
+				]
+			}
+		],
+		#ts : 3836995496,
+		#comment : '',
+		#formatVersion : '1.1',
+		#applications : OrderedCollection [
+			{
+				#name : 'UnleashClient',
+				#versionName : '5',
+				#ts : 3836990409
+			}
+		],
+		#name : 'Unleash',
+		#versionName : '5'
+	}
+]
